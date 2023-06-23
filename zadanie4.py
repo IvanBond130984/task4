@@ -1,0 +1,5 @@
+x=input()
+y1=int(x[3])**int(x[4])
+y2=y1*int(x[2])
+y3=y2/(int(x[0])-int(x[1]))
+print(y3)
